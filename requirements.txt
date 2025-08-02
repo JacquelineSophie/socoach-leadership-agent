@@ -1,0 +1,4 @@
+smolagents
+fastapi
+uvicorn[standard]
+openai
